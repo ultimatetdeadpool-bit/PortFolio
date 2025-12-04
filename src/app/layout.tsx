@@ -5,8 +5,8 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Dr. Alex Chen - Data Scientist Portfolio",
-  description: "Portfolio of Dr. Alex Chen, Data Scientist and Machine Learning Engineer specializing in advanced analytics and ML solutions.",
+  title: "RICHOL Teddy - Data Scientist Portfolio",
+  description: "Portfolio of RICHOL Teddy, Data Scientist and Machine Learning Engineer specializing in advanced analytics and ML solutions.",
 };
 
 export default function RootLayout({
