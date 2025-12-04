@@ -69,7 +69,7 @@ export default function Header() {
               <Mail size={20} />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/ultimatetdeadpool-bit"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center w-12 h-12 rounded-lg bg-primary/10 text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 transform hover:scale-110"
@@ -78,7 +78,7 @@ export default function Header() {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/teddy-richol/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center w-12 h-12 rounded-lg bg-primary/10 text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 transform hover:scale-110"
